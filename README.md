@@ -30,7 +30,7 @@ You can preview a formatted version of this README.md document by clicking the '
 
 In this project implementation step you will be working to refine the process by which you will transform the dataset(s) you will use in your text analysis project. You will build on the curated dataset you have created and documented and move to create a transformed dataset that is more in line with your analysis approach yet reflects the structural characteristics to maintain a tidy dataset.
 
-The `2_transform_dataset.Rmd` file has a similar template structure (to the previous analysis files) in the prose section of the .Rmd document. This includes 'About' , 'Setup', 'Run', and 'Finalize' sections with some relevant subsections. This structure is not set in stone and merely helps you start to think about the steps that your processing and documentation should most likely include. Each of the (sub)sections has a comment (`<!-- ... -->`) to guide you as to what you might expect to add in these sections.
+The `3_transform_dataset.Rmd` file has a similar template structure (to the previous analysis files) in the prose section of the .Rmd document. This includes 'About' , 'Setup', 'Run', and 'Finalize' sections with some relevant subsections. This structure is not set in stone and merely helps you start to think about the steps that your processing and documentation should most likely include. Each of the (sub)sections has a comment (`<!-- ... -->`) to guide you as to what you might expect to add in these sections.
 
 **Tasks**
 
